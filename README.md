@@ -29,7 +29,6 @@ areas_expertise = {
 ### 💻 Linguagens & Core
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Pascal](https://img.shields.io/badge/-Pascal-734F96?style=flat)
 
 ### 🤖 Frameworks de IA
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
