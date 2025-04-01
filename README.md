@@ -1,4 +1,4 @@
-# 👋 Olá, sou Caio Palácio (@vision-neural)
+# 👋 Olá, sou Caio Palácio (@palaceIA)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-palácio-78533624a)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:palaciodatawork@outlook.com)
@@ -89,7 +89,7 @@ Interessado em projetos inovadores de IA ou pesquisa em deep learning? Vamos con
 
 - 📧 Email: palaciodatawork@outlook.com
 - 🔗 LinkedIn: [Caio Palácio](https://www.linkedin.com/in/caio-palácio-78533624a)
-- 🐱 GitHub: [@mr-neuralnet](https://github.com/mr-neuralnet)
+- 🐱 GitHub: [@palaceIA](https://github.com/palaceIA?tab=repositories)
 
 ---
-⭐️ From [mr-neuralnet](https://github.com/mr-neuralnet)
+⭐️ From [palaceIA](https://github.com/palaceIA)
