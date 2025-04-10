@@ -1,5 +1,5 @@
 # 👋 Olá, sou Caio Palácio (@palaceIA)
-
+![Image](image.jpeg)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-palácio-78533624a)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:palaciodatawork@outlook.com)
 
